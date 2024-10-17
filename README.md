@@ -22,9 +22,8 @@ Certainly! Setting up a Python virtual environment is an essential step to ensur
 
 1. **Clone the repository**:
     ```bash
-  https://github.com/Def-Warrior/Cyber-OX/
+  https://github.com/Def-Warrior/Cyber-OX.git
     cd CyberOX
-    ```
 
 2. **Create a virtual environment**:
     ```bash
