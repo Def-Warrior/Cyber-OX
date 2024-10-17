@@ -1,6 +1,7 @@
 # CyberOX - Digital Forensics Tool with AI Malware Detection
 
 CyberOX is a command-line tool designed to assist in forensic investigations. It incorporates AI-based malware detection, network traffic capture, disk recovery, hardware data acquisition, and report generation. This tool is developed using Python, and aims to simplify the process of digital forensics with powerful features and AI-based insights.
+![image](https://github.com/user-attachments/assets/61794729-1b9e-48fd-b9ae-e609a4e2fc4c)
 
 ## Features
 - **Disk Recovery**: Recovers partition information using `pytsk3`.
