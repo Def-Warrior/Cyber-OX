@@ -1,0 +1,12 @@
+argparse
+scapy
+pyserial
+pytsk3
+tensorflow   # Version can be adjusted depending on your environment
+joblib
+fpdf
+pefile
+rich
+pyfiglet
+scikit-learn
+
